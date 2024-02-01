@@ -1,7 +1,7 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# 2024
+# 基础知识
 
 {% include list.liquid %}
